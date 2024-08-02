@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Login() {
+function Hire() {
   return (
     <div>
-      Home Content
+      Hire
     </div>
   )
 }
 
-export default Login
+export default Hire
